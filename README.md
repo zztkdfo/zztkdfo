@@ -36,7 +36,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)<br />  <br />  <br />  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&show_icons=true&theme=radical) <br />  <br />
+![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&show_icons=true&theme=radical) <br />  <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo&langs_count=8)](https://github.com/zztkdfo/github-readme-stats) 
 
