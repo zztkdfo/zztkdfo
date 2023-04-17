@@ -11,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-FAB040?style=for-the-badge&logo=Recoil&logoColor=white)
 
+![React Query](https://img.shields.io/badge/React_Query-FAB040?style=for-the-badge&logo=Recoil&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
@@ -38,6 +39,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&show_icons=true&theme=radical) <br />  <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo&langs_count=8)](https://github.com/zztkdfo/github-readme-stats) 
+
+<!-- [![Solved.ac
+zztkdfo](http://mazassumnida.wtf/api/v2/generate_badge?boj={zztkdfo})](https://solved.ac/{zztkdfo}) -->
 
 <!--
 **1rmservice/1rmservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
