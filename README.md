@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=1rm_Overview&height=200&fontSize=30&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Overview&height=200&fontSize=30&fontColor=black)
 
 
 <b>💻 Tech Skills 💻</b><br />  
