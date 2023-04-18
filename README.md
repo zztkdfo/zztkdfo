@@ -35,10 +35,9 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)<br />  <br />  <br />  
 
+![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&count_private=true&&show_icons=true) <br />  <br />  <br />
 
-[![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo)]() <br />  <br />  <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo)]() 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo&layout=compact)]()
 
 <!-- [![Solved.ac
 zztkdfo](http://mazassumnida.wtf/api/v2/generate_badge?boj={zztkdfo})](https://solved.ac/{zztkdfo}) -->
