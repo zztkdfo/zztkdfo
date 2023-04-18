@@ -36,24 +36,10 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)<br />  <br />  <br />  
 
 
-![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&show_icons=true&theme=radical) <br />  <br />  <br />
+[![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo)]() <br />  <br />  <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo&langs_count=8)](https://github.com/zztkdfo/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo)]() 
 
 <!-- [![Solved.ac
 zztkdfo](http://mazassumnida.wtf/api/v2/generate_badge?boj={zztkdfo})](https://solved.ac/{zztkdfo}) -->
 
-<!--
-**1rmservice/1rmservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
