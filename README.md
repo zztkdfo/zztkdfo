@@ -25,7 +25,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
-<br />  
+<br />   <br />   <br />
 ✨✨ Common <br />  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -36,7 +36,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)<br />  <br />  <br />  
 
 
-![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&show_icons=true&theme=radical) <br />  <br />
+![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&show_icons=true&theme=radical) <br />  <br />  <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo&langs_count=8)](https://github.com/zztkdfo/github-readme-stats) 
 
