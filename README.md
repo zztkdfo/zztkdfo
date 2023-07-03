@@ -35,8 +35,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)<br />  <br />  <br />  
 
-![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&count_private=true&&show_icons=true) <br />  <br />  <br />
-
+[![zztkdfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zztkdfo&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br />  <br />  <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zztkdfo&layout=compact)]()
 
 <!-- [![Solved.ac
