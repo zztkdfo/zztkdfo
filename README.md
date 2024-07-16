@@ -69,11 +69,3 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </div>
-
-<br />
-
-<div style="display: flex; align-items: center; flex-direction: column; justify-content: center;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zztkdfo&show_icons=true&locale=en&layout=compact" alt="zztkdfo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zztkdfo&show_icons=true&locale=en" alt="zztkdfo" /></p>
-</div>
