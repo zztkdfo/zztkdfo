@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm zztkdfo 입니다.</h1>
 <h3 align="center">저는 Frontend developer 입니다.</h3>
-<!--배너 추가 추가 -->
-<h1 align="center">
-  <img align="center" alt="배너" width="580" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" />
-</h1>
 
 <!--GIF 이미지 추가 -->
 <img align="right" alt="코딩" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
