@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **개발, 독서, 운동, 러닝, 상담, 잡담 등등**
 
-- 👨‍💻 All of my projects are available at **공개 예정(작업 중)**
+- 👨‍💻 All of my projects are available at **[포트폴리오](https://portfolio-zztkdfo.vercel.app/)**
 
 - 📫 How to reach me **zztkdfo@gmail.com**
 <br />
