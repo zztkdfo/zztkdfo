@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zztkdfo&label=Profile%20views&color=0e75b6&style=flat" alt="zztkdfo" /> </p>
 
-- 💬 Ask me about **프론트엔드 개발, 아이디어, 스타트업, UI/UX  등등**
+- 💬 Ask me about **프론트엔드 개발, 취업 준비, 이력서 작성법, 개발자 고민, UI/UX  등등**
 
 - 🌱 I’m currently learning **개발, 브랜딩, 대화 기술, 마인드 셋 등등**
 
