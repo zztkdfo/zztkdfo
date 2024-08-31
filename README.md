@@ -7,9 +7,10 @@
 >
 <br />
 
+## 👯 Communities
 
 <!--GIF 이미지 추가 -->
-<img align="right" alt="코딩" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="right" alt="코딩" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 - 💬 Ask me about **프론트엔드 개발, 취업 준비, 이력서 작성법, 고민**
 - 🌱 I’m currently learning **개발, 퍼스널 브랜딩, 대화, 마인드 셋 등등**
@@ -19,7 +20,7 @@
 - 📫 How to reach me **zztkdfo@gmail.com**
 
 <br /><br />
-### 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 <div style="display: flex; flex-wrap: nowrap;">
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="42px"/>
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
@@ -36,12 +37,7 @@
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/>
 </div>
 
-
-
-
----
-
-### 📕 최근 작성한 article
+## 📕 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
 - [스타트업 3년의 기록: 설레임, 도전, 그리고 새로운 시작](https://disquiet.io/@zztkdfo/makerlog/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-3%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-%EC%84%A4%EB%A0%88%EC%9E%84-%EB%8F%84%EC%A0%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91)
