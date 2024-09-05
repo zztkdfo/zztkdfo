@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **개발, 퍼스널 브랜딩, 대화, 마인드 셋 등등**
 - ⚡ Fun fact **개발, 독서, 운동, 러닝, 상담, 잡담 등등**
 - 📝 Checkout my [resume](https://zztkdfo.github.io/)
-- 🎯 Portfolio site: [Portfolio](https://portfolio-zztkdfo.vercel.app/)
+- 🎯 Portfolio site: [portfolio](https://portfolio-zztkdfo.vercel.app/)
 - 📫 How to reach me **zztkdfo@gmail.com**
 
 <br /><br />
