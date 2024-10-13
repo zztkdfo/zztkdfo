@@ -39,6 +39,7 @@
 ## 📕 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 시대, 개발자는 대체될까? 아니, 진화할까?](https://disquiet.io/@zztkdfo/makerlog/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C-%EC%95%84%EB%8B%88-%EC%A7%84%ED%99%94%ED%95%A0%EA%B9%8C)
 - [프리랜서 개발자로 선택한 이유: 안정적인 수입과 자유로운 시간의 균형 💼⏰](https://disquiet.io/@zztkdfo/makerlog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%88%98%EC%9E%85%EA%B3%BC-%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EA%B0%84%EC%9D%98-%EA%B7%A0%ED%98%95)
 - [내 꿈 vs 남의 사업: 주체성에 대해서..](https://disquiet.io/@zztkdfo/makerlog/%EB%82%B4-%EA%BF%88-vs-%EB%82%A8%EC%9D%98-%EC%82%AC%EC%97%85)
 - [스타트업 창업가에서 프리랜서로의 삶: 나의 생각과 행동이 멀지 않기를](https://disquiet.io/@zztkdfo/makerlog/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B0%80%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%EB%A1%9C%EC%9D%98-%EC%82%B6)
