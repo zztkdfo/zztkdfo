@@ -39,11 +39,11 @@
 ## 📕 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [스타트업 대표에서 프리랜서 개발자로 전향: 회고](https://disquiet.io/@zztkdfo/makerlog/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8C%80%ED%91%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%A0%84%ED%96%A5-%ED%9A%8C%EA%B3%A0)
 - [AI 시대, 개발자는 대체될까? 아니, 진화할까?](https://disquiet.io/@zztkdfo/makerlog/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C-%EC%95%84%EB%8B%88-%EC%A7%84%ED%99%94%ED%95%A0%EA%B9%8C)
 - [프리랜서 개발자로 선택한 이유: 안정적인 수입과 자유로운 시간의 균형 💼⏰](https://disquiet.io/@zztkdfo/makerlog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%88%98%EC%9E%85%EA%B3%BC-%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EA%B0%84%EC%9D%98-%EA%B7%A0%ED%98%95)
 - [내 꿈 vs 남의 사업: 주체성에 대해서..](https://disquiet.io/@zztkdfo/makerlog/%EB%82%B4-%EA%BF%88-vs-%EB%82%A8%EC%9D%98-%EC%82%AC%EC%97%85)
 - [스타트업 창업가에서 프리랜서로의 삶: 나의 생각과 행동이 멀지 않기를](https://disquiet.io/@zztkdfo/makerlog/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B0%80%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%EB%A1%9C%EC%9D%98-%EC%82%B6)
-- [Remind: 빠르게 실패하기](https://disquiet.io/@zztkdfo/makerlog/remind-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B8%B0)
 - [스타트업 3년의 기록: 설레임, 도전, 그리고 새로운 시작](https://disquiet.io/@zztkdfo/makerlog/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-3%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-%EC%84%A4%EB%A0%88%EC%9E%84-%EB%8F%84%EC%A0%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91)
 - [성숙함의 6가지 명확한 징후: 삶의 깊이를 더하는 지혜](https://disquiet.io/@zztkdfo/makerlog/%EC%84%B1%EC%88%99%ED%95%A8%EC%9D%98-6%EA%B0%80%EC%A7%80-%EB%AA%85%ED%99%95%ED%95%9C-%EC%A7%95%ED%9B%84-%EC%82%B6%EC%9D%98-%EA%B9%8A%EC%9D%B4%EB%A5%BC-%EB%8D%94%ED%95%98%EB%8A%94-%EC%A7%80%ED%98%9C)
 <!-- BLOG-POST-LIST:END -->
