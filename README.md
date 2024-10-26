@@ -1,4 +1,4 @@
-## Hey 👋, I'm 이상래(FE developer)! 
+## Hi <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="24"/>, I'm 이상래(FE developer)! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zztkdfo&label=Profile%20views&color=0e75b6&style=flat" alt="zztkdfo" /> </p>
 안녕하세요, 반갑습니다. 저는 현재 프리랜서 및 퍼스널브랜딩에 관심이 많은 프론트엔드 개발자 입니다.  <br />
 지금은 취업 준비생, 대학생, 비전공자들에게 작게나마 도움을 주는 일을 하고 있습니다.  
