@@ -8,13 +8,15 @@
 ## 👯 Communities
 
 <!--GIF 이미지 추가 -->
-<img align="right" alt="코딩" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="right" alt="코딩" width="360" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 - 💬 Ask me about **프론트엔드 개발, 취업 준비, 이력서 작성법, 고민**
-- 🌱 I’m currently learning **개발, 퍼스널 브랜딩, 대화, 마인드 셋 등등**
+- 🌱 I’m currently learning **AI, 개발, 퍼스널 브랜딩, 대화, 마인드 셋 등등**
 - ⚡ Fun fact **개발, 독서, 운동, 러닝, 상담, 잡담 등등**
+- ✨ Trust **꾸준함, 과정, 습관, 경험, 배움**
 - 📝 Checkout my [resume](https://zztkdfo.github.io/)
 - 🎯 Portfolio site: [portfolio](https://portfolio-zztkdfo.vercel.app/)
+- 📄 Read my articles: [articles](https://github.com/zztkdfo/writing)
 - 📫 How to reach me **zztkdfo@gmail.com**
 
 <br /><br />
