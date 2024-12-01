@@ -41,6 +41,7 @@
 ## 📕 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [루틴의 힘: 매일의 과정이 나를 만든다 🕰️💪](https://disquiet.io/@zztkdfo/makerlog/%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%9E%98-%EB%A7%A4%EC%9D%BC%EC%9D%98-%EA%B3%BC%EC%A0%95%EC%9D%B4-%EB%82%98%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4)
 - [같은 그림, 다른 해석: 당신은 무엇을 보셨나요?](https://disquiet.io/@zztkdfo/makerlog/%EA%B0%99%EC%9D%80-%EA%B7%B8%EB%A6%BC-%EB%8B%A4%EB%A5%B8-%ED%95%B4%EC%84%9D-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%84-%EB%B3%B4%EC%85%A8%EB%82%98%EC%9A%94)
 - [나만의 길을 만들어가는 첫 걸음, 꾸준히 그리고 나답게](https://disquiet.io/@zztkdfo/makerlog/%EB%82%98%EB%A7%8C%EC%9D%98-%EA%B8%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EC%B2%AB-%EA%B1%B8%EC%9D%8C-%EA%BE%B8%EC%A4%80%ED%9E%88-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%82%98%EB%8B%B5%EA%B2%8C)
 - [스타트업 대표에서 프리랜서 개발자로 전향: 회고](https://disquiet.io/@zztkdfo/makerlog/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8C%80%ED%91%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%A0%84%ED%96%A5-%ED%9A%8C%EA%B3%A0)
