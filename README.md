@@ -43,7 +43,7 @@
 ## 📕 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ 프리랜서 개발자로 살아남는 법: 25년 첫 프로젝트를 시작하며](https://disquiet.io/@zztkdfo/makerlog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94-%EB%B2%95-25%EB%85%84-%EC%B2%AB-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0)
+- [프리랜서 개발자로 살아남는 법: 25년 첫 프로젝트를 시작하며🛠️](https://disquiet.io/@zztkdfo/makerlog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94-%EB%B2%95-25%EB%85%84-%EC%B2%AB-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0)
 - [깃허브 프로필 생성기, 왜 만들었을까요? 🤔](https://disquiet.io/@zztkdfo/makerlog/%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EC%83%9D%EC%84%B1%EA%B8%B0-%EC%99%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C%EC%9A%94)
 - [프리랜서 계약 연장 이슈: 감정이 아닌 전략으로 풀어내는 법👍](https://disquiet.io/@zztkdfo/makerlog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B3%84%EC%95%BD-%EC%97%B0%EC%9E%A5-%EC%9D%B4%EC%8A%88-%EA%B0%90%EC%A0%95%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%A0%84%EB%9E%B5%EC%9C%BC%EB%A1%9C-%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94-%EB%B2%95)
 - [루틴의 힘: 매일의 과정이 나를 만든다 🕰️💪](https://disquiet.io/@zztkdfo/makerlog/%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%9E%98-%EB%A7%A4%EC%9D%BC%EC%9D%98-%EA%B3%BC%EC%A0%95%EC%9D%B4-%EB%82%98%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4)
