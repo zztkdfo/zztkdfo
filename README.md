@@ -13,7 +13,7 @@
 
 <img align="right" alt="코딩" width="340" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />  
 
-- 💬 Ask me about **프론트엔드 개발, 서비스 운영, 외주 개발, 취업 준비**  
+- 💬 Ask me about **풀스택 개발, 서비스 운영, 외주 개발**  
 - 🌱 I’m currently learning **AI, 퍼스널 브랜딩, 서비스 운영, 팀 협업**  
 - ⚡ Fun fact: **개발, 독서, 러닝, 글쓰기, 지식 공유**  
 - ✨ Trust: **꾸준함 · 과정 · 습관 · 경험 · 배움**  
