@@ -7,8 +7,6 @@
 
 > **_"매일 꾸준히 쌓은 작은 노력이 결국 커리어와 브랜딩을 만든다."_**  
 
----
-
 ## 👯 Communities  
 
 <img align="right" alt="코딩" width="340" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />  
