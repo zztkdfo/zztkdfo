@@ -5,7 +5,9 @@
 저는 **스타트업 리드 개발자이자 1인 개발자**로 활동하며, **외주 개발 및 서비스 개발**을 병행하고 있습니다.  
 하루는 회사에서 **풀스택 개발자**로, 또 하루는 퇴근 후 **1인 개발자 & 외주 개발 팀 운영자**로 지내고 있습니다.  
 
-> **_"매일 꾸준히 쌓은 작은 노력이 결국 커리어와 브랜딩을 만든다."_**  
+> **_"매일 꾸준히 쌓은 작은 노력이 결국 커리어와 브랜딩을 만든다."_**
+<br />
+<br />
 
 ## 👯 Communities  
 
@@ -20,8 +22,8 @@
 - 📄 Articles: [articles](https://github.com/zztkdfo/writing)  
 - 📫 Reach me: **zztkdfo@gmail.com**  
 
----
-
+<br />
+<br />
 ## 🔨 Languages and Tools  
 
 <div style="display: flex; flex-wrap: nowrap;">
@@ -39,8 +41,8 @@
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/>
 </div>  
 
----
-
+<br />
+<br />
 ## 📕 Latest Articles  
 
 - [AI가 중급 개발자까지 대체한다고? 그래서 저는 이렇게 준비합니다.](https://disquiet.io/@zztkdfo/makerlog/ai%EA%B0%80-%EC%A4%91%EA%B8%89-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B9%8C%EC%A7%80-%EB%8C%80%EC%B2%B4%ED%95%9C%EB%8B%A4%EA%B3%A0-%EA%B7%B8%EB%9E%98%EC%84%9C-%EC%A0%80%EB%8A%94-%EC%9D%B4%EB%9F%87%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%A9%EB%8B%88%EB%8B%A4)  
@@ -48,8 +50,8 @@
 - [루틴의 힘: 매일의 과정이 나를 만든다 🕰️💪](https://disquiet.io/@zztkdfo/makerlog/%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%9E%98-%EB%A7%A4%EC%9D%BC%EC%9D%98-%EA%B3%BC%EC%A0%95%EC%9D%B4-%EB%82%98%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4)  
 ➡️ [more articles...](https://disquiet.io/@zztkdfo/articles)  
 
----
-
+<br />
+<br />
 ## 💼 Work with me  
 
 - React 기반 웹 서비스 개발 / 유지보수  
