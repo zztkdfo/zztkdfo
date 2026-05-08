@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zztkdfo&label=Profile%20views&color=0e75b6&style=flat" alt="zztkdfo" /> </p>  
 
 안녕하세요, 반갑습니다
-저는 **스타트업 리드 개발자이자 1인 개발자**로 활동 하고 있습니다.
+저는 **스타트업 리드 개발자이자 1인 개발자**로 활동 하고 있습니다. <br />
 하루는 회사에서 **풀스택 개발자**로, 또 하루는 퇴근 후 **1인 개발자**로 지내고 있습니다. 
 
 > **_"매일 꾸준히 쌓은 작은 노력이 결국 커리어와 브랜딩을 만든다."_**
