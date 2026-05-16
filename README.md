@@ -1,7 +1,7 @@
 ## Hi <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="24"/>, I'm 풀스택 개발자 이상래
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zztkdfo&label=Profile%20views&color=0e75b6&style=flat" alt="zztkdfo" /> </p>  
 
-안녕하세요, 반갑습니다
+안녕하세요, 반갑습니다.
 저는 **스타트업 리드 개발자이자 1인 개발자**로 활동 하고 있습니다. <br />
 하루는 회사에서 **풀스택 개발자**로, 또 하루는 퇴근 후 **1인 개발자**로 지내고 있습니다. <br />
 지금 시대에 **혼자서 어디까지 해볼 수 있나?** 라는 궁금증을 해결하기 위해 여러 시도를 해보고 있습니다.
